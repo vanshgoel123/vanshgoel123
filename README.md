@@ -5,139 +5,179 @@ Computer Science Undergraduate • DevOps Engineer • Backend Developer
 </h3>
 
 <p align="center">
-Building scalable cloud-native systems, deployment platforms, and developer tools.
+Building scalable cloud-native systems, backend platforms and deployment automation.
 </p>
 
 <p align="center">
+
 <a href="https://github.com/vanshgoel123">
-<img src="https://komarev.com/ghpvc/?username=vanshgoel123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=vanshgoel123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/vanshgoel123?tab=followers">
-<img src="https://img.shields.io/github/followers/vanshgoel123?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/followers/vanshgoel123?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/vanshgoel123">
-<img src="https://img.shields.io/github/stars/vanshgoel123?affiliations=OWNER&style=social"/>
+<img src="https://img.shields.io/github/stars/vanshgoel123?affiliations=OWNER&style=for-the-badge"/>
 </a>
+
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 Computer Science undergraduate at **IIIT Naya Raipur**
+🎓 Computer Science Undergraduate at **IIIT Naya Raipur**
 
 💼 Former **DevOps Intern @ Devnagri**
 
-☁️ Passionate about building scalable backend systems, cloud infrastructure, deployment automation and developer platforms.
+🚀 Passionate about Cloud Infrastructure, Backend Engineering, DevOps and Platform Engineering.
 
-🚀 Currently building production-oriented cloud-native applications.
+🌱 Currently exploring Kubernetes, Distributed Systems and Cloud-native Architectures.
+
+💬 Ask me about Docker, FastAPI, Jenkins, GitHub Actions, Linux, AWS, GCP, Terraform and Backend Development.
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 What I've Built
 
-### ☁️ Cloud IDE Platform
+☁️ Browser-based **Cloud IDE Platform**
+
+⚙️ **AutoDevOps Control** (Mini Platform-as-a-Service)
+
+🔄 Production CI/CD Pipelines
+
+🐳 Docker-based Deployment Workflows
+
+📊 Monitoring using Prometheus & Grafana
+
+☁️ Production Infrastructure on Google Cloud Platform
+
+---
+
+# 🌟 Featured Projects
+
+## ☁️ Cloud IDE Platform
 
 Production-oriented browser-based Cloud IDE with isolated Docker-powered VS Code workspaces.
 
-🚀 **Live Demo**
+### 🚀 Live Demo
 
-https://rolled-kyle-queen-stylish.trycloudflare.com/
+### 👉 https://rolled-kyle-queen-stylish.trycloudflare.com/
 
-📂 **Repository**
+### 📂 Repository
 
-https://github.com/vanshgoel123/cloud-ide-platform
+### 👉 https://github.com/vanshgoel123/cloud-ide-platform
 
-✨ Highlights
+### ✨ Highlights
 
-- Docker-based isolated VS Code workspaces
-- FastAPI backend
-- GitHub Actions CI/CD
-- Idle workspace cleanup
-- Prometheus Metrics
-- Resource Limits
-- Soft Delete & Restore
+- 🐳 Docker-powered isolated VS Code workspaces
+- ⚡ FastAPI workspace lifecycle management
+- 📊 Prometheus metrics
+- 🔄 GitHub Actions CI/CD
+- 🧹 Idle workspace cleanup
+- 🔒 Soft Delete & Restore
+- 🚦 Resource isolation using CPU & Memory limits
 
 ---
 
-### ⚙️ AutoDevOps Control
+## ⚙️ AutoDevOps Control
 
 Mini Platform-as-a-Service (PaaS) that deploys applications on AWS using repository metadata and user-provided credentials.
 
-📂 Repository
+### 📂 Repository
 
-https://github.com/vanshgoel123/AutoDevOps-Control
+### 👉 https://github.com/vanshgoel123/AutoDevOps-Control
 
-✨ Highlights
+### ✨ Highlights
 
-- Docker
-- FastAPI
-- Celery
-- Redis
-- AWS
-- Infrastructure Automation
+- 🚀 One-click deployments on AWS
+- 🐳 Docker image automation
+- ⚡ FastAPI backend
+- 🔄 Celery + Redis asynchronous workers
+- ☁️ Infrastructure provisioning
+- 📦 Repository cloning & automated deployments
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+## Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
 
-### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=cpp,python,go,java,js,bash"/>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+</p>
 
-### Backend
+## Cloud & DevOps
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+<p>
 
-### Monitoring
+<img src="https://skillicons.dev/icons?i=linux,docker,jenkins,githubactions,terraform,ansible,aws,gcp"/>
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,redis,nginx"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+
+</p>
+
+## Monitoring
+
+<p>
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+</p>
 
 ---
 
 # 🏆 Achievements
 
-🥈 Second Runner-up — 23Ventures Entrepreneurship Challenge 2025
+🥈 Second Runner-up — **23Ventures Entrepreneurship Challenge 2025**
 
-🦈 Top 15 Finalist — Shark Tank Chhattisgarh 2025
+🦈 Top 15 Finalist — **Shark Tank Chhattisgarh 2025**
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanshgoel123&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshgoel123&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgoel123&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgoel123&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgoel123&theme=tokyonight&hide_border=true"/>
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgoel123&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vanshgoel123&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -146,17 +186,31 @@ https://github.com/vanshgoel123/AutoDevOps-Control
 # 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/vanshgoel123/vanshgoel123/output/github-contribution-grid-snake.svg" alt="snake"/>
+
+<img src="https://raw.githubusercontent.com/vanshgoel123/vanshgoel123/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
 </p>
+
+---
+
+# 💼 Open to Opportunities
+
+I'm actively looking for opportunities in
+
+- 🚀 DevOps Engineering
+- ☁️ Cloud Engineering
+- ⚙️ Platform Engineering
+- 💻 Backend Development
+- 🖥️ Software Development (SDE)
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/vansh-goel-0756ab27a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:itsvansh247776@gmail.com">
@@ -164,7 +218,7 @@ https://github.com/vanshgoel123/AutoDevOps-Control
 </a>
 
 <a href="https://github.com/vanshgoel123">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
