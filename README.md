@@ -55,9 +55,6 @@ Production-ready browser-based Cloud IDE with isolated Docker workspaces.
 - 🚦 CPU & Memory Limits
 
 <p>
-<a href="https://rolled-kyle-queen-stylish.trycloudflare.com/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-0A66C2?style=for-the-badge"/>
-</a>
 <a href="https://github.com/vanshgoel123/cloud-ide-platform">
 <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -80,7 +77,7 @@ Mini Platform-as-a-Service (PaaS) for automated AWS deployments.
 - 📦 Automated Repository Cloning
 
 <p>
-<a href="https://deploy.13-207-132-171.sslip.io/">
+<a href="https://tabs-conditioning-foundation-atlas.trycloudflare.com/">
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-0A66C2?style=for-the-badge"/>
 </a>
 <a href="https://github.com/vanshgoel123/AutoDevOps-Control">
